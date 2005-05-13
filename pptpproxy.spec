@@ -8,6 +8,8 @@ Group:		Applications/System
 Source0:	http://www.mgix.com/pptpproxy/%{name}-%{version}.tar.bz2
 # Source0-md5:	e6847e8c4a04bfcfb402e796a2f364b3
 URL:		http://www.mgix.com/pptpproxy/
+BuildRequires:	libstdc++-devel
+BuildRequires:	perl-base
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
