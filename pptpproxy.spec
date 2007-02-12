@@ -1,5 +1,5 @@
 Summary:	Proxy server for PPTP protocol
-Summary(pl):	Serwer proxy dla protoko≥u PPTP
+Summary(pl.UTF-8):   Serwer proxy dla protoko≈Çu PPTP
 Name:		pptpproxy
 Version:	1.10
 Release:	0.1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Proxy server for PPTP protocol.
 
-%description -l pl
-Serwer proxy dla protoko≥u PPTP.
+%description -l pl.UTF-8
+Serwer proxy dla protoko≈Çu PPTP.
 
 %prep
 %setup -q
