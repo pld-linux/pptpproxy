@@ -1,5 +1,5 @@
 Summary:	Proxy server for PPTP protocol
-Summary(pl.UTF-8):   Serwer proxy dla protokołu PPTP
+Summary(pl.UTF-8):	Serwer proxy dla protokołu PPTP
 Name:		pptpproxy
 Version:	1.10
 Release:	0.1
